@@ -3,8 +3,7 @@
 Racer is a knowledge representation system that implements a highly optimized tableau calculus for the description logic SRIQ(D).
 
 |---------+-------------------------------------------|
-| source  | git:https://github.com/ha-mo-we/Racer.git   |
-| commit  | d690841  |
-| systems | Racer |
+| source  | git:https://github.com/ha-mo-we/Racer.git |
+| commit  | d690841                                   |
+| systems | racer lracer                              |
 |---------+-------------------------------------------|
-
